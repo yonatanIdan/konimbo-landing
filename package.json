@@ -30,9 +30,9 @@
     "tailwindcss": "^4.1.7",
     "vite": "^6.3.5"
   },
-  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "description": "A modern, responsive landing page for a fictional e-commerce platform (Konimbo), built with React, TailwindCSS, and Vite. Includes animated sections and a contact form integrated with Airtable API.",
   "main": "eslint.config.js",
   "keywords": [],
-  "author": "",
+  "author": "Yonatan Idan",
   "license": "ISC"
 }

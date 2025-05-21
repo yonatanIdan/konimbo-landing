@@ -4,7 +4,7 @@ import headerBg from '../assets/header-bg.png';
 export default function HeroSection() {
   return (
     <section
-      className="min-h-screen flex flex-col items-center bg-opacity-50 justify-center text-center px-6 py-20 bg-cover bg-center relative"
+      className="min-h-screen flex flex-col items-center justify-center text-center px-6 py-20 bg-cover bg-center relative"
       style={{ backgroundImage: `url(${headerBg})` }}
     >
       <motion.div
@@ -14,7 +14,7 @@ export default function HeroSection() {
         viewport={{ once: true }}
         className="max-w-3xl relative z-10 text-white bg-zinc-300/70 rounded-xl py-3"
       >
-        <h1 className="text-4xl md:text-5xl text-black font-bold text-shadow-lg/30 text-[#90c138] mb-6">
+        <h1 className="text-4xl md:text-5xl text-black font-bold text-shadow-lg/30 mb-6">
           קונימבו - הפלטפורמה המושלמת לעסק שלך
         </h1>
         <p className="text-xl md:text-3xl text-black font-bold text-shadow-lg/20 mb-8">

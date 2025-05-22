@@ -35,7 +35,7 @@
 
 2. שכפלו את הריפוזיטורי:
    ```bash
-   git clone https://github.com/username/konimbo-landing.git
+   git clone https://github.com/yonatanIdan/konimbo-landing.git
    cd konimbo-landing
 
 3. התקינו את התלויות:
